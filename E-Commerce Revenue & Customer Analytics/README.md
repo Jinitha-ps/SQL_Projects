@@ -2,16 +2,16 @@
 
 **Project Overview**
 
-This project focuses on analyzing e-commerce transaction data using SQL to extract meaningful business insights. Data cleaning and preprocessing were performed using Python before loading the dataset into a SQL database for analysis.
+* This project focuses on analyzing e-commerce transaction data using SQL to extract meaningful business insights. Data cleaning and preprocessing were performed using Python before loading the dataset into a SQL database for analysis.
 
 **Tools and Technologies**
 
-Python (NumPy, Pandas)
-SQL
-MySQL
-Data Cleaning
-Data Analysis
-Database Information
+* Python (NumPy, Pandas)
+* SQL
+* MySQL
+* Data Cleaning
+* Data Analysis
+* Database Information
 
 Database Name:
 
