@@ -1,4 +1,4 @@
-E-Commerce Revenue & Customer Analytics
+# **E-Commerce Revenue & Customer Analytics**
 
 **Project Overview**
 
