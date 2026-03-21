@@ -50,7 +50,9 @@ United Kingdom generated the highest revenue
 **Files Included**
 
 cleaned_data.csv — Cleaned dataset
+
 script-1.sql — SQL scripts
+
 eda_data_cleaning.ipynb — VS Code used for data cleaning and exploratory data analysis
 
 **Skills Demonstrated**
