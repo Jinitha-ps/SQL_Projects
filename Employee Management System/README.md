@@ -69,77 +69,77 @@ The project contains the following tables:
 # 📸 Project Screenshots
 
 ## 1️⃣ Display All Employees
-![All Employees](screenshots/01_all_employees.png)
+![All Employees](Screenshots/01_all_employees.png)
 
 ---
 
 ## 2️⃣ Employees Working in IT Department
-![IT Department](screenshots/02_it_department_employees.png)
+![IT Department](Screenshots/02_it_department_employees.png)
 
 ---
 
 ## 3️⃣ Highest Salary Employee
-![Highest Salary](screenshots/03_highest_salary_employee.png)
+![Highest Salary](Screenshots/03_highest_salary_employee.png)
 
 ---
 
 ## 4️⃣ Department Wise Employee Count
-![Department Count](screenshots/04_department_employee_count.png)
+![Department Count](Screenshots/04_department_employee_count.png)
 
 ---
 
 ## 5️⃣ Average Salary by Department
-![Average Salary](screenshots/05_average_salary_by_department.png)
+![Average Salary](Screenshots/05_average_salary_by_department.png)
 
 ---
 
 ## 6️⃣ Employees with Salary Greater Than 60000
-![Salary Greater](screenshots/06_salary_greater_than_60000.png)
+![Salary Greater](Screenshots/06_salary_greater_than_60000.png)
 
 ---
 
 ## 7️⃣ Employees Joined After 2021
-![Joined After 2021](screenshots/07_employees_joined_after_2021.png)
+![Joined After 2021](Screenshots/07_employees_joined_after_2021.png)
 
 ---
 
 ## 8️⃣ Count Male and Female Employees
-![Gender Count](screenshots/08_gender_count.png)
+![Gender Count](Screenshots/08_gender_count.png)
 
 ---
 
 ## 9️⃣ Employees with Their Project Names
-![Project Details](screenshots/09_employee_project_details.png)
+![Project Details](Screenshots/09_employee_project_details.png)
 
 ---
 
 ## 🔟 Employees Who Were Absent
-![Absent Employees](screenshots/10_absent_employees.png)
+![Absent Employees](Screenshots/10_absent_employees.png)
 
 ---
 
 ## 1️⃣1️⃣ Total Salary Expense
-![Total Salary](screenshots/11_total_salary_expense.png)
+![Total Salary](Screenshots/11_total_salary_expense.png)
 
 ---
 
 ## 1️⃣2️⃣ Top 3 Highest Paid Employees
-![Top Salary](screenshots/12_top_3_highest_salary.png)
+![Top Salary](Screenshots/12_top_3_highest_salary.png)
 
 ---
 
 ## 1️⃣3️⃣ Employees From Chennai
-![Employees Chennai](screenshots/13_employees_from_chennai.png)
+![Employees Chennai](Screenshots/13_employees_from_chennai.png)
 
 ---
 
 ## 1️⃣4️⃣ Number of Employees in Each City
-![City Count](screenshots/14_employee_count_by_city.png)
+![City Count](Screenshots/14_employee_count_by_city.png)
 
 ---
 
 ## 1️⃣5️⃣ View Output
-![View Output](screenshots/15_view_output.png)
+![View Output](Screenshots/15_view_output.png)
 
 ---
 
