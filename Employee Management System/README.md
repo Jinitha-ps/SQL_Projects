@@ -138,11 +138,6 @@ The project contains the following tables:
 
 ---
 
-## 1️⃣5️⃣ View Output
-![View Output](Screenshots/15_view_output.png)
-
----
-
 # 📁 Project Structure
 
 ```text
